@@ -1,0 +1,13 @@
+# Editor files
+*~
+.*.swp
+.*.swo
+
+# Logs (optional—only if you auto-generate volatile logs)
+# logs/temp-*.md
+
+# OS-specific
+.DS_Store
+Thumbs.db
+EOF
+
