@@ -1,4 +1,4 @@
-## 2025-12-08 — Basic Command Line Operations
+# Basic Command Line Operations
 
 ### Files and Directories
 - Learned:
@@ -14,6 +14,7 @@
   - `history` – show command history
   - `history 5` – show last 5 commands
   - `!9` – re-run command number 9 from history
+  - `!git` - run the most recent command
 
 ### Shell Variables
 - Learned:
