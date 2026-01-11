@@ -1,0 +1,17 @@
+ls: cannot access '/fake': No such file or directory
+/etc/ppp:
+chap-secrets
+eaptls-client
+eaptls-server
+ip-down
+ip-down.ipv6to4
+ip-up
+ip-up.ipv6to4
+ipv6-down
+ipv6-down.initscripts
+ipv6-up
+ipv6-up.initscripts
+openssl.cnf
+options
+options.pptp
+pap-secrets

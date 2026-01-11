@@ -14,7 +14,7 @@
 
 ### Listing Files and Directories
 - Learned:
-    -`cd` change dir
+    - `cd` change dir
     - `ls` list contents of the dir
         - black or white or regular file
         - blue Directory
