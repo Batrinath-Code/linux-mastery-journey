@@ -47,16 +47,16 @@
 
 - Learned:
   - `grep 'r..t' /etc/passwd` - . would find any line that contained the letter
-   - `grep '....' red.txt` - final all words that have at least four character
-   - `grep '[0-9]' profile.txt` - return lines have a number in them
-   - `grep '[^0-9]' profile.txt` - return which contain non-numbers.
-   - `grep 're*d' red.txt` - match zero or more occurrences of letter e
-   -  `grep '[oe]*' red.txt` - matche zero or more occureences of the o or e character
-   - `grep 'ee*' red.txt` - atleast one e.
-   - `grep '^root' /etc/passwd` - line should start with root
-   - `grep 'r$' letters.txt` - line end with r
-   - `grep 're*' ./sample.txt ` - word end with re or r
-   - `grep 're\*' sample.txt` - word end with re* 
-   - `grep -E 'e+' red.txt`
-   - `grep -E 'colou?r' spelling.txt` - matches previous character or optional
-   - `grep -E 'gray|grey' ./spelling.txt` - logical 'or' operator
+  - `grep '....' red.txt` - final all words that have at least four character
+  - `grep '[0-9]' profile.txt` - return lines have a number in them
+  - `grep '[^0-9]' profile.txt` - return which contain non-numbers.
+  - `grep 're*d' red.txt` - match zero or more occurrences of letter e
+  - `grep '[oe]*' red.txt` - matche zero or more occureences of the o or e character
+  - `grep 'ee*' red.txt` - atleast one e.
+  - `grep '^root' /etc/passwd` - line should start with root
+  - `grep 'r$' letters.txt` - line end with r
+  - `grep 're*' ./sample.txt ` - word end with re or r
+  - `grep 're\*' sample.txt` - word end with re\*
+  - `grep -E 'e+' red.txt`
+  - `grep -E 'colou?r' spelling.txt` - matches previous character or optional
+  - `grep -E 'gray|grey' ./spelling.txt` - logical 'or' operator

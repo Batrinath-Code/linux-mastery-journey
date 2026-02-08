@@ -88,37 +88,41 @@
   - `/var/tmp` - Temporary files to be preserved between reboots
 
 ### Binary Directories
+
 - Learned:
-    - The binary directories that are intended to be used by non-privileged users include:
-    - `/bin`
-    - `/usr/bin`
-    - `/usr/local/bin`
-    - For third-party software
-    - `/usr/local/application/bin`
-    - `/opt/application/bin`
+  - The binary directories that are intended to be used by non-privileged users include:
+  - `/bin`
+  - `/usr/bin`
+  - `/usr/local/bin`
+  - For third-party software
+  - `/usr/local/application/bin`
+  - `/opt/application/bin`
 
 ### Root-Restricted Binaries
+
 - Learned:
-    - sbin directories are primarily intended to be used by the system adminstrator
-    - `/sbin`
-    - `/usr/sbin`
-    - `/usr/local/sbin`
-    - For thir-party administrative applications
-    - `/usr/local/application/sbin`
-    - `/opt/application/sbin`
+  - sbin directories are primarily intended to be used by the system adminstrator
+  - `/sbin`
+  - `/usr/sbin`
+  - `/usr/local/sbin`
+  - For thir-party administrative applications
+  - `/usr/local/application/sbin`
+  - `/opt/application/sbin`
 
 ### Software Application Directories
+
 - Learned:
-    - The data for the application may be stored in 
-    - `/usr/share`
-    - `/usr/lib`
-    - `/opt/application`
-    - `/var/lib`
-    - The files related to documentation
-    - `/usr/share/doc`
-    - `/usr/share/man`
-    - `/usr/share/info`
+  - The data for the application may be stored in
+  - `/usr/share`
+  - `/usr/lib`
+  - `/opt/application`
+  - `/var/lib`
+  - The files related to documentation
+  - `/usr/share/doc`
+  - `/usr/share/man`
+  - `/usr/share/info`
 
 ### Libray Directories
+
 - Learned:
-    - Most library files names end in a file exension of `.so` which mean shared object
+  - Most library files names end in a file exension of `.so` which mean shared object
